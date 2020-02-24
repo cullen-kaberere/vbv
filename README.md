@@ -13,7 +13,6 @@ JavaScript
 JQuery
 
 CONTACT:
-
 kabesh86@gmail.com
 (MIT License
 
