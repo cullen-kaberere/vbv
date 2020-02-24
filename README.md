@@ -10,7 +10,7 @@ CSS
 JavaScript
 JQuery
 
-CONTACT:
+CONTACT:.
 kabesh86@gmail.com
 (MIT License
 
