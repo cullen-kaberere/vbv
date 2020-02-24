@@ -8,7 +8,7 @@ This webpage give information about Delani studios. It shows and hides informati
 
 TECHNOLOGIES USED:
 HTML
-CSS .
+CSS 
 JavaScript
 JQuery
 
